@@ -1,1 +1,3 @@
-dotenv
+python-dotenv>=0.19.02a
+nextcord>=2.0.02a
+os
